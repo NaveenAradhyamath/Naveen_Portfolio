@@ -55,7 +55,7 @@ packages : pandas, numpy, matplotlib, seaborn
 code: https://github.com/NaveenAradhyamath/Naveen_Portfolio/blob/main/EDA_SuperStore.ipynb
 
 
-# Project 4: [predict the future revenues, expenses and gross profits of a company: Overview](https://github.com/NaveenAradhyamath/findme_Naveen/blob/main/SENSEX_Price_Prediction.ipynb)
+# Project 3: [predict the future revenues, expenses and gross profits of a company: Overview](https://github.com/NaveenAradhyamath/findme_Naveen/blob/main/SENSEX_Price_Prediction.ipynb)
 
 # Title:
 To predict the future revenues, expenses and gross profits of a company using Monte Carlo simulation.
@@ -82,7 +82,7 @@ Code: https://github.com/NaveenAradhyamath/findme_Naveen/blob/main/SENSEX_Price_
 (https://www.linkedin.com/posts/naveen-aradhyamath-490033131_montecarlosimulation-thesparksfoundation-activity-6796850566006915072-vmWQ)
 
 
-# Project 3: [Future values of SENSEX Stock:](https://github.com/NaveenAradhyamath/findme_Naveen/blob/main/SENSEX_Price_Prediction.ipynb)
+# Project 4: [Future values of SENSEX Stock:](https://github.com/NaveenAradhyamath/findme_Naveen/blob/main/SENSEX_Price_Prediction.ipynb)
 
 # Title:
 A hybrid model to predict the SENSEX stock price/performance using Monte Carlo Simulation:
