@@ -1,7 +1,8 @@
 # Naveen_Portfolio
 
-# Project1: 
-# Title: [Student Score Predictor using R: Overview:](https://github.com/NaveenAradhyamath/findme_Naveen/blob/main/student_score_predlm.Rmd)
+# Project1: [Student Score Predictor using R: Overview:](https://github.com/NaveenAradhyamath/findme_Naveen/blob/main/student_score_predlm.Rmd)
+
+# Title: 
 Predicting the percentage of an student based on the number of study hours using linear regression model.
 
 # Description:
@@ -29,6 +30,33 @@ Code: https://github.com/NaveenAradhyamath/findme_Naveen/blob/main/student_score
 
 # Youtube Video:
 https://lnkd.in/enmgpm9
+
+# Project2: [EDA of Superstore: Overview](https://github.com/NaveenAradhyamath/Naveen_Portfolio/blob/main/EDA_SuperStore.ipynb)
+
+# Title:
+To identify the weak areas where I can work to make more profit of the Superstore by performing EDA.
+
+# 1.Purpose of the project:
+
+To identify the weak areas of the superstore and to increase the business profit and thereby reducing the losses.
+
+# 2.Skills used by me to complete this project:
+
+I have used Python programming and performed EDA.
+
+# 3.The final result of the project:
+1.As we know that there is a negative correlation between the profit and discount.
+
+2.Maximum Discounts are given to 'Office Supply Category' and the distribution or the sales of this category in the dataset is high and hence there is a Loss.
+
+# Code and Resources used:
+Anaconda Jupyter Notebook
+
+Python Programming.
+
+packages : pandas, numpy, matplotlib, seaborn
+
+code: https://github.com/NaveenAradhyamath/Naveen_Portfolio/blob/main/EDA_SuperStore.ipynb
 
 
 
