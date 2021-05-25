@@ -82,7 +82,7 @@ Code: https://github.com/NaveenAradhyamath/findme_Naveen/blob/main/SENSEX_Price_
 (https://www.linkedin.com/posts/naveen-aradhyamath-490033131_montecarlosimulation-thesparksfoundation-activity-6796850566006915072-vmWQ)
 
 
-# Project 4: [Future values of SENSEX Stock:](https://github.com/NaveenAradhyamath/findme_Naveen/blob/main/SENSEX_Price_Prediction.ipynb)
+# Project 4: [Future prices of SENSEX Stock:](https://github.com/NaveenAradhyamath/findme_Naveen/blob/main/SENSEX_Price_Prediction.ipynb)
 
 # Title:
 A hybrid model to predict the SENSEX stock price/performance using Monte Carlo Simulation:
